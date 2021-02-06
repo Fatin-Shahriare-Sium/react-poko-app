@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 # PROJECT UI
-![picture](./pic/Screenshot (323).png)
+![picture](https://github.com/Fatin-Shahriare-Sium/react-poko-app/blob/master/react-pokemon/pic/Screenshot%20(323).png)
 ## Available Scripts
 
 In the project directory, you can run:
